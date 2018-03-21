@@ -1,1 +1,1 @@
-This is a demo repo to reproduce paket issue.
+This is a demo repo to reproduce paket issue [3126](https://github.com/fsprojects/Paket/issues/3126).
